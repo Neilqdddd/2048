@@ -1,3 +1,4 @@
 #utf8
 
-def main()
+class Game:
+    gride = [[]]
